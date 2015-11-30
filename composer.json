@@ -1,0 +1,12 @@
+{
+    "name": "gneustaetter/xlsxreader",
+    "description": "PHP Library to read XLSX files",
+    "keywords": ["php", "library","xls", "xlsx", "excel"],
+    "type": "project",
+    "homepage": "https://github.com/gneustaetter/XLSXReader",
+    "license": "MIT",
+
+    "autoload": {
+        "classmap": ["XLSXReader.php"]
+    }
+}
